@@ -1,0 +1,27 @@
+body{
+	background:  url('assets/crew/background-crew-desktop.jpg');
+}
+.imageCrew{
+	max-width: 65%;
+}
+.balls{
+	position: absolute;
+	width: 1024px;
+	display: flex;
+}
+.balls div{
+	transition: all 0.5s;
+	padding: 6px;
+	border-radius: 50%;
+	margin-right: 15px;
+	cursor: pointer;
+	border: 1px solid #ccc;
+}
+
+.balls div:hover{
+	background: #fff;
+}
+.selecionado{
+	transition: all 0.5s;
+	background: #fff;
+}

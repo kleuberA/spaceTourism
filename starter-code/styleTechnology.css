@@ -1,0 +1,18 @@
+body{
+	background:  url('assets/technology/background-technology-desktop.jpg');
+}
+.imageTechnology{
+	max-width: 65%;
+}
+.containerTechnologyOptions{
+    display: contents;
+    float: right;
+}
+.containerItensTechnology{
+    float: left;
+    display: inline-table;
+    padding: 0 20px 0 0;
+}
+.espaco{
+    margin-bottom: 8px;
+}

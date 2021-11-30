@@ -1,0 +1,10 @@
+body{
+	background:  url('assets/destination/background-destination-desktop.jpg');
+}
+.staticsDestination{
+	padding: 0;
+	margin: 0;
+}
+.active{
+    border-bottom: 2px solid white;
+}

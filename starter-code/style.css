@@ -1,0 +1,28 @@
+body{
+    background: url('assets/home/background-home-desktop.jpg');
+}
+.traco{
+    width: 80%;
+    float: right;
+    color: white;
+    height: 0.5px;
+}
+.grande{
+	width: 18vw;
+    height: 35vh;
+    border-radius: 50%;
+}
+.paddinZero{
+	padding: 0;
+}
+.navContainer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.navStyle{
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+}
+.containerPrincipal{
+    height: calc(var(--bs-gutter-x) * 23);
+}
